@@ -7,4 +7,5 @@ https://github.com/Profitah/Fina_main_renewal/assets/101340482/7a482610-cd96-484
 
 ## 배포시 새로고침 오류 해결방법 찾음
 연구를 통해 새로고침시 문제를 해결할 방법을 찾았습니다.. <br>
-아직 프로젝트에 적용해 보지는 않았으나, 고칠 수 있을 것 같습니다.
+아직 프로젝트에 적용해 보지는 않았으나, 바로 고칠 수 있을 것 같습니다.
+연구자료 : https://vercel-test-phi-smoky.vercel.app/
