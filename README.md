@@ -6,7 +6,7 @@ https://github.com/Profitah/Fina_main_renewal/assets/101340482/7a482610-cd96-484
 
 
 ## 배포시 새로고침 오류 해결방법 찾음
-https://real-finna.vercel.app/
+https://finnafinna.vercel.app/
 해결완료 했습니다.
 
 ## 2023 . 03 .02
