@@ -13,4 +13,4 @@ https://finnafinna.vercel.app/
 루틴 추가 오류 해결.
 
 ## 기타
-솔첼 제출 할때 프론트 배포 링크는 제출 안한것 같길래 https://finnafinna.vercel.app/로 레포에 있는 링크를 살짝 바꿔두었습니다..!
+좀 더 좋은 점수를 받을수 있지 않을까 기대하며 프론트 배포링크를 https://finnafinna.vercel.app/로 바꿔두었습니다..! 
